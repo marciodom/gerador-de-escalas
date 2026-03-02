@@ -10,7 +10,7 @@ O sistema foi criado para auxiliar na organização de turnos de vigilantes, per
 
 ## 🚀 Demonstração
 
-🔗 Acesse: https://marciodom.github.io/gerador-de-escalas-pwa/
+🔗 Acesse: https://marciodom.github.io/gerador-de-escalas
 ---
 
 🎯 Funcionalidades
